@@ -53,7 +53,8 @@ https://bitterbiscuits.substack.com/p/why-germany-sucks
 
 ## Workflow
 
-I accepted the link to the assignment repo from canvas, used git clone to clone it to my new MACS 30111 folder, then opened both items in VSC. I didn't yet know how to embed images in a Readme file, so that was new. I ended up copying the image to the local git repo then git add/commit/push-ing it to the main. I found how to embed the image on stackoverflow here: https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
+I accepted the link to the assignment repo from canvas, used git clone to clone it to my new MACS 30111 folder, then opened both items in VSC. I didn't yet know how to embed images in a Readme file, so that was new. I ended up copying the image to the local git repo then git add/commit/push-ing it to the main. I found how to embed the image on stackoverflow here: https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github. Then I add/commit/pushed the readme and script.
+
 This question (describe workflow) was also somewhat confusing to me, so I hope this is what it's asking for, because I guess I haven't often had to retrace my steps/ "reflect on my workflow" in a summary. I can see how it's useful though.
 
 
