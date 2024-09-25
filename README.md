@@ -43,7 +43,8 @@ Looking forward to getting to know everyone and their interests!
 
 ## Links
 
-A blog about Germany
+A blog about Germany:
+
 https://bitterbiscuits.substack.com/p/why-germany-sucks
 
 ## Image
